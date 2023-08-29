@@ -17,7 +17,10 @@
   </tr>
 </table>
 
-## 2. System Structure
+## 2. Video(YouTube)
+[![Video Label](http://img.youtube.com/vi/ca9A004nKGk/0.jpg)](https://youtu.be/ca9A004nKGk)
+
+## 3. System Structure
 <img width="50%" src="https://user-images.githubusercontent.com/103934004/229429124-b1926ac3-d177-45e2-9628-c2ef7fd5e543.png">
 
 #### Copyright : https://github.com/ROBOTIS-GIT/open_manipulator
